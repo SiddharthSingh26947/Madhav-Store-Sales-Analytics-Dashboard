@@ -47,7 +47,7 @@ Designed and developed a dynamic sales dashboard to evaluate key business metric
 ---
 
 ## 📸 Dashboard Preview
-https://github.com/SiddharthSingh/Sales-Dashboard/blob/main/Sales%20Analytics%20Snapshot.png
+https://github.com/SiddharthSingh26947/Madhav-Store-Sales-Analytics-Dashboard/blob/main/Sales%20Analytics%20Snapshot.png
 
 ---
 
